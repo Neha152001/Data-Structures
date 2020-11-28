@@ -1,1 +1,9 @@
 This file contains the description about the topics under Arrays folder .
+
+The topics under Arrays Folder are :
+
+->Arrays Basic Programs - Traversal,Printing,Accepting input,Sum of array elements
+->Arrays Searching - Linear Search , Binary Search
+->Arrays Sorting - Selection Sort , Bubble Sort 
+->Dynamic Array and Vectors - Dynamic Array Class and exceution in a different file , Basics of vector
+->Character Arrays and String - How to print and initialize character array , in-built functions ,reverse a string 
